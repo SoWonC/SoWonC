@@ -20,8 +20,6 @@
 
 📫 How to reach me:  
 Email: fkdla1024@naver.com  
-LinkedIn: [링크 삽입]  
-Blog: [링크 삽입]
 
 ⚡ Fun fact:  
 I’ve lost over 30kg multiple times through sheer consistency — that same grit now fuels my coding journey.
