@@ -25,4 +25,4 @@ Email: fkdla1024@naver.com
 I’ve lost over 30kg multiple times through sheer consistency — that same grit now fuels my coding journey.
 
 ---
-> “Move fast with direction, not just speed.”
+> “Move fast with direction, not just speed.” :)
