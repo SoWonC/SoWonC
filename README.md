@@ -1,5 +1,5 @@
 🌱 I'm currently learning:
-- Java, Spring Boot
+- Java, Spring Boot 
 - PostgreSQL, Git, REST API
 - Clean architecture & scalable backend design
 
