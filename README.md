@@ -26,3 +26,7 @@ I’ve lost over 30kg multiple times through sheer consistency — that same gri
 
 ---
 > “Move fast with direction, not just speed.” :)
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
