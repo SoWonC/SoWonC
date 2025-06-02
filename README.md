@@ -27,7 +27,7 @@ I’ve lost over 30kg multiple times through sheer consistency — that same gri
 ---
 > “Move fast with direction, not just speed.” :)
 
-
+ㅇ
 
 
 
