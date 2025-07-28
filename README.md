@@ -21,9 +21,6 @@
 📫 How to reach me:  
 Email: fkdla1024@naver.com  
 
-⚡ Fun fact:  
-I’ve lost over 30kg multiple times through sheer consistency — that same grit now fuels my coding journey.
-
 ---
 > “Move fast with direction, not just speed.” :)
 
