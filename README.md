@@ -19,7 +19,6 @@
 
 ### ✅ 외부 API / 지도 기능  
 ![VWorld](https://img.shields.io/badge/VWorld_Map_API_2.0-0096D6?logo=mapbox&logoColor=white)  
-![EPSG](https://img.shields.io/badge/EPSG:4326-444444?logo=earth&logoColor=white)  
 
 ---
 
