@@ -17,10 +17,14 @@ IntelliJ · Git/GitHub · Maven
 
 ---
 
-## 🚀 Projects
-- [HangangView](https://github.com/SoWonC/HangangView) – 한강 수문 정보 시각화 플랫폼  
-- [PostGIS Data Exporter](https://github.com/SoWonC/postgis-data-exporter) – 공간 데이터 Excel 변환 도구  
-- [JTS Geometry Lab](https://github.com/SoWonC/jts-geometry-lab) – JTS 실험 프로젝트  
+### 👥 Team Projects
+- [CuraToon](https://github.com/SoWonC/CuraToon) - AI 기반 웹툰 추천 플랫폼
+
+### 👤 Personal Projects
+- [HangangView](https://github.com/SoWonC/HangangView) - 한강 수문 정보 시각화 플랫폼
+- [PostGIS Data Exporter](https://github.com/SoWonC/postgis-data-exporter) - 공간 데이터 Excel 변환 도구
+- [JTS Geometry Lab](https://github.com/SoWonC/jts-geometry-lab) - JTS 실험 프로젝트
+
 
 ---
 
