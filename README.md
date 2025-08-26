@@ -4,16 +4,33 @@ GIS 기반 공공 웹 서비스 회사에 다니는 개발자입니다.
 ---
 
 ## ⚙️ Tech Stack
-### Backend
-Java 11 · Spring Boot · MyBatis · eGovFramework · JWT  
-### Frontend
-JSP · JSTL · JavaScript · OpenLayers · HTML/CSS  
-### GIS / Spatial
-PostGIS · GDAL · GeoTools · JTS · VWorld API  
-### Database
-PostgreSQL · MySQL · Oracle  
-### Tools
-IntelliJ · Git/GitHub · Maven  
+
+**🔧 Backend**
+- Java 11 · Spring Boot · Spring Security · MyBatis · Spring Data JPA · eGovFramework  
+- JWT · OAuth2  
+- Flask (AI 서버)
+
+**🎨 Frontend**
+- TypeScript · JavaScript (ES6+)  
+- React · Vite  
+- JSP · JSTL · HTML/CSS  
+- OpenLayers  
+
+**🎨 UI / 스타일링**
+- Tailwind CSS · shadcn/ui · Material UI  
+
+**💾 State Management & Routing**
+- Zustand · React Router  
+
+**🌍 GIS / Spatial**
+- PostGIS · GDAL · GeoTools · JTS · VWorld API  
+
+**🗄️ Database**
+- PostgreSQL · MySQL · Oracle  
+
+**🛠️ Tools**
+- IntelliJ IDEA · Git/GitHub · Maven · Gradle · Swagger · RestTemplate
+
 
 ---
 
