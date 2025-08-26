@@ -1,4 +1,4 @@
-# Hi
+# Hi, I’m a developer building GIS-based public web services.
 GIS 기반 공공 웹 서비스 회사에 다니는 개발자입니다.  
 
 ---
